@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655958123668",
+    "project_id": "authapp-adf19",
+    "storage_bucket": "authapp-adf19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655958123668:android:b7103e753250c640434081",
+        "android_client_info": {
+          "package_name": "com.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655958123668-rvjuah7sj642pj5eaduohgfasnek3csb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzcy_S8Vhk1EduFy3C7zeLDo6xjPcTyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655958123668-rvjuah7sj642pj5eaduohgfasnek3csb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
